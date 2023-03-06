@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestCases.RandomScenarios">
+        <methods>
+          <include name="closing"/>
+          <include name="setBeforeTest"/>
+          <include name="TestCase37"/>
+          <include name="TestCase36"/>
+          <include name="TestCase38"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- TestCases.RandomScenarios -->
+      <class name="TestCases.Leads">
+        <methods>
+          <include name="closing"/>
+          <include name="setBeforeTest"/>
+          <include name="TestCase23"/>
+          <include name="TestCase24"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- TestCases.Leads -->
+      <class name="TestCases.Contacts">
+        <methods>
+          <include name="closing"/>
+          <include name="setBeforeTest"/>
+          <include name="TestCase29"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- TestCases.Contacts -->
+      <class name="TestCases.UserMenu">
+        <methods>
+          <include name="closing"/>
+          <include name="TestCase9"/>
+          <include name="setBeforeTest"/>
+          <include name="TestCase7"/>
+          <include name="TestCase10"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- TestCases.UserMenu -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

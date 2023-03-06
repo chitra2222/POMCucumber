@@ -1,0 +1,25 @@
+20230302 04:34:46 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java48 - Entered the Salesforce url
+20230302 04:34:50 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java73 - valid Username is entered chitra@tekarch.com
+20230302 04:34:51 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java86 - login button is clicked
+20230302 04:34:51 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java95 - Test scenario passed 
+20230302 04:34:52 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java56 - Exit the Salesforce application
+20230302 04:34:56 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java48 - Entered the Salesforce url
+20230302 04:35:00 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java73 - valid Username is entered chitra@tekarch.com
+20230302 04:35:00 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java79 - valid password is entered risharinav1215
+20230302 04:35:01 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java86 - login button is clicked
+20230302 04:35:05 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java106 - Test scenario passed 
+20230302 04:35:06 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java56 - Exit the Salesforce application
+20230302 04:35:10 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java48 - Entered the Salesforce url
+20230302 04:35:14 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java73 - valid Username is entered chitra@tekarch.com
+20230302 04:35:14 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java79 - valid password is entered risharinav1215
+20230302 04:35:16 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java86 - login button is clicked
+20230302 04:35:26 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java130 - Test scenario passed 
+20230302 04:35:27 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java56 - Exit the Salesforce application
+20230302 04:35:30 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java48 - Entered the Salesforce url
+20230302 04:35:39 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java56 - Exit the Salesforce application
+20230302 04:35:42 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java48 - Entered the Salesforce url
+20230302 04:35:46 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java142 - Invalid user name is entered22134
+20230302 04:35:46 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java149 - Invalid user password is entered123
+20230302 04:35:47 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java86 - login button is clicked
+20230302 04:35:51 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java167 - Test scenario passed 
+20230302 04:35:52 INFO  [main] TestCases.StepDefinitionForLogin StepDefinitionForLogin.java56 - Exit the Salesforce application
